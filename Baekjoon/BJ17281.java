@@ -111,7 +111,7 @@ public class BJ17281 {
 		}
 		
 		if (score > max) {
-			System.out.println(Arrays.toString(sel) + " " + score);
+			//System.out.println(Arrays.toString(sel) + " " + score);
 			max = score;
 		}
 	}
